@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
   
-<p><strong> School : 부산소프트웨어마이스터고등학교 <br> Birth : May 30, 2008
+<p><strong> School : 부산소프트웨어마이스터고등학교 <br> Birth : May 30, 2008 </strong>
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.instagram.com/jh_16.0/" target="_blank">
