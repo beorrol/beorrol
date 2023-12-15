@@ -7,9 +7,7 @@
 <p><strong> School : 부산소프트웨어마이스터고등학교 <br> Birth : May 30, 2008 </strong>
 
 <h2> Connect with me on 👇</h2>
-<a href="https://www.instagram.com/jh_16.0/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-8A2BE2" />
-</a>
+<a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
