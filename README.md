@@ -1,6 +1,6 @@
 
 
-# 
+# Hi There
 
 <div align="center" width="50">
   
@@ -13,7 +13,7 @@
 
 <hr>
 
-## Things I use on a daily basis
+## My Tech
 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
