@@ -13,24 +13,4 @@
 
 <hr>
 
-## My Tech
-
-<p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=df5c43">  
-</a>
-<hr></hr>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beorrol)](https://solved.ac/beorrol/)
