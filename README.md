@@ -32,3 +32,5 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=df5c43">  
 </a>
 <hr></hr>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beorrol)](https://solved.ac/beorrol/)
